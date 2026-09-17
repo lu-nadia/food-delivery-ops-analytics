@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Игнорируем всё содержимое папки data
+data/
+
+.venv/
+env/
+__pycache__/
+*.pyc
